@@ -1,6 +1,6 @@
 # သုံးစွဲနည်း
 
-- ပထမဦးစွာ sweeper.zip ကို ဒီနေရာ https://raw.githubusercontent.com/watch-dog-mm/sweeper/master/sweeper.zip ကနေ ကွန်ပြူတာထဲ ဒေါင်းလုပ်ဆွဲပါ (များသောအားဖြင့် Downloads Folder ထဲမှာရှိပါတယ်)
+- ပထမဦးစွာ sweeper.zip ကို ဒီနေရာ https://bit.ly/3k1kbwl ကနေ ကွန်ပြူတာထဲ ဒေါင်းလုပ်ဆွဲပါ (များသောအားဖြင့် Downloads Folder ထဲမှာရှိပါတယ်)
 
 - ပြီးလျှင် Zipfile ကိုဖြည်ပါ (sweeper.exe ဖိုင်ထွက်လာပါလိမ့်မယ်)
 
